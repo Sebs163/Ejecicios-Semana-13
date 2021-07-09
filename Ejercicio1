@@ -27,13 +27,13 @@ Proceso Ejercicio_1
 		FinSi
 	FinSi
 	si (s30=1) Entonces
-		Mostrar "Usted eligio la operadora Movistar,un servicio prepago, un equipo samsung galaxy s30. Por todo pagar� s/.600";
+		Mostrar "Usted eligio la operadora Movistar,un servicio prepago, un equipo samsung galaxy s30. Por todo pagará s/.600";
 	FinSi
 	si (i13=1) Entonces
-		Mostrar "Usted eligio la operadora Movistar,un servicio prepago, un equipo iphone13. Por todo pagar� s/.800";
+		Mostrar "Usted eligio la operadora Movistar,un servicio prepago, un equipo iphone13. Por todo pagará s/.800";
 	FinSi
 	si (hua8=1) Entonces
-		Mostrar "Usted eligio la operadora Movistar,un servicio prepago, un equipo huawei y8. Por todo pagar� s/.700";
+		Mostrar "Usted eligio la operadora Movistar,un servicio prepago, un equipo huawei y8. Por todo pagará s/.700";
 	FinSi
 	si (opera=3) Entonces
 		si (servi=6) Entonces
@@ -45,16 +45,16 @@ Proceso Ejercicio_1
 			si (servi=7) Entonces
 				Mostrar "Usted eligio la operadora Claro,un servicio postpago, puede obtener estos premios: ";
 				Mostrar " - Participa por un Xiaomi 20";
-				Mostrar " - Obten regalos como: bicicletas, dinero y mucho m�s";
+				Mostrar " - Obten regalos como: bicicletas, dinero y mucho más";
 				Mostrar "El total a pagar es de s/.50";
 			FinSi
 		FinSi
 	FinSi
 	si (iph=1) Entonces
-		Mostrar "Usted eligio la operadora Claro,un servicio prepago, un equipo iphone13. Por todo pagar� s/.850";
+		Mostrar "Usted eligio la operadora Claro,un servicio prepago, un equipo iphone13. Por todo pagará s/.850";
 	FinSi
 	si (sam=1) Entonces
-		Mostrar "Usted eligio la operadora Claro,un servicio prepago, un equipo Samsung galaxy a50. Por todo pagar� s/.750";
+		Mostrar "Usted eligio la operadora Claro,un servicio prepago, un equipo Samsung galaxy a50. Por todo pagará s/.750";
 	FinSi
 	si (opera=4) Entonces
 		si (servi=6) Entonces
@@ -72,10 +72,10 @@ Proceso Ejercicio_1
 		FinSi
 	FinSi
 	si (iph14=1) Entonces
-		Mostrar "Usted eligio la operadora Bitel,un servicio prepago, un equipo iphone14. Por todo pagar� s/.1000";
+		Mostrar "Usted eligio la operadora Bitel,un servicio prepago, un equipo iphone14. Por todo pagará s/.1000";
 	FinSi
 	si (redmi=1) Entonces
-		Mostrar "Usted eligio la operadora Bitel,un servicio prepago, un equipo redmi 90. Por todo pagar� s/.900";
+		Mostrar "Usted eligio la operadora Bitel,un servicio prepago, un equipo redmi 90. Por todo pagará s/.900";
 	FinSi
 	si (opera=5) Entonces
 		si (servi=6) Entonces
@@ -93,9 +93,9 @@ Proceso Ejercicio_1
 		FinSi
 	FinSi
 	si (a60=1) Entonces
-		Mostrar "Usted eligio la operadora Entel,un servicio prepago, un equipo Samsung Galaxy A60. Por todo pagar� s/.999";
+		Mostrar "Usted eligio la operadora Entel,un servicio prepago, un equipo Samsung Galaxy A60. Por todo pagará s/.999";
 	FinSi
 	si (red70=1) Entonces
-		Mostrar "Usted eligio la operadora Entel,un servicio prepago, un equipo Redmi 70. Por todo pagar� s/.887";
+		Mostrar "Usted eligio la operadora Entel,un servicio prepago, un equipo Redmi 70. Por todo pagará s/.887";
 	FinSi
 FinProceso
