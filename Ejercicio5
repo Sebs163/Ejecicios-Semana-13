@@ -1,0 +1,19 @@
+Proceso Ejercicio_5
+	
+	Definir x, e Como Real;
+	
+	Escribir "Ingrese el valor de x";
+	Leer x;
+	Escribir "Ingrese el valor de y";
+	Leer e;
+	
+	si (x>0) Entonces
+		si (e>0) Entonces
+			Mostrar "Dicho resultado se ubicara en la 1° cuadrante";
+		FinSi
+	SiNo
+		si (x<0 y e<0) Entonces
+			Mostrar "Dicho resultado se ubicara en la 2° cuadrante";
+		FinSi
+	FinSi
+FinProceso
